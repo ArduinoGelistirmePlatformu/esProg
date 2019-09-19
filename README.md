@@ -1,6 +1,12 @@
 #esProg
 esProg AVR Programmer V:1.1
 
+Bilgisayar Gerektirmeden AVR Projelerinize HEX Yükleyebilir ve Fuses Ayarlarını Yapabilirsiniz.
+
+ilerleyen Zamanda Microchip Ve Stm Ailesinide eklemeyi Düşünüyorum.
+
+Facebook: https://www.facebook.com/groups/Arduino.Pic
+
 Video: https://www.youtube.com/watch?v=lhsaVAEl87k&t=31s
 
 Website: https://espprog.blogspot.com/
