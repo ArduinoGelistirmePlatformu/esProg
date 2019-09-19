@@ -5,7 +5,7 @@ Bilgisayar Gerektirmeden AVR Projelerinize HEX Yükleyebilir ve Fuses Ayarların
 
 ilerleyen Zamanda Microchip Ve Stm Ailesinide eklemeyi Düşünüyorum.
 
-Facebook: https://www.facebook.com/groups/Arduino.Pic
+Arduino Geliştirme Platformu: https://www.facebook.com/groups/Arduino.Pic
 
 Video: https://www.youtube.com/watch?v=lhsaVAEl87k&t=31s
 
