@@ -1,6 +1,6 @@
 Partlist
 
-Exported from untitled.sch at 15.09.2019 19:52
+Exported from untitled.sch at 23.09.2019 10:48
 
 EAGLE Version 7.7.0 Copyright (c) 1988-2016 CadSoft
 
@@ -20,6 +20,10 @@ R1       10K            R-US_R0805      R0805         adafruit               1
 R2       10K            R-US_R0805      R0805         adafruit               1
 R3       10K            R-US_R0805      R0805         adafruit               1
 R4       6K             R-US_R0805      R0805         adafruit               1
+R5       100R           R-US_R0805      R0805         adafruit               1
+R6       100R           R-US_R0805      R0805         adafruit               1
+R7       100R           R-US_R0805      R0805         adafruit               1
+R8       100R           R-US_R0805      R0805         adafruit               1
 U$1      OLED_0.96_I2C  OLED_0.96_I2C   OLED_0.96_I2C tft_1.8_1.44_oled_0.96 1
 U$2      AVR_SPI_PROG   AVR_SPI_PROG    AVR_ICSP      SparkFun-Connectors    1
 UP                      10-XX           B3F-10XX      switch-omron           1
