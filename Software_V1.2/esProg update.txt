@@ -1,0 +1,31 @@
+**************************************************************************************************
+SSD1306 0.96"
+esProg_SSD1306_Oled.bin 	Address:0x00000  EspFlasher/ESP8266Flasher.exe
+**************************************************************************************************
+SH1106 1.3"
+esProg_SSD1106_Oled.bin 	Address:0x00000  EspFlasher/ESP8266Flasher.exe
+**************************************************************************************************
+SPIFFS Dosyasý
+esProg.spiffs.bin 		Address:0x100000 EspFlasherTool/ESPFlashDownloadTool_v3.4.4.exe
+**************************************************************************************************
+Ap ssid: esProg Adresine wifi agýnýzdan baglanýn ve 
+web sayfanýzdan aþaðýdaki adresleri ziyaret edin.
+"esprog.com" Modemenizin Ýsmini Ve Þifresini Giriniz Ve Ekranda Çýkacak Local Ýp'nizi Öðreniniz.
+**************************************************************************************************
+Local ip/     		Dosya Düzenleme 	[Ekleme,Silme,Ýndirme]
+Local ip/update 	Frimware yükleme	[User: admin, Pass: esprog]
+Ap Mode
+esprog.com/update 	Frimware yükleme	[User: admin, Pass: esprog]
+**************************************************************************************************
+**************************************************************************************************
+Update WiFi SSID And PASS
+Menu
+Setting: WiFi Clear [Ssid and Pass Cleans]
+Ap Mode Active
+Connect "esprog" wifi
+Web Browser: "esprog.com" Wifi Settings
+Display Local IP [192.168.x.xxx]
+**************************************************************************************************
+Version 1.2 
+Edit Hatalarý Giderildi.
+
